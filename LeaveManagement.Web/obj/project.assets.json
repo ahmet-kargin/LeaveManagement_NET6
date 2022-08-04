@@ -9927,19 +9927,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asiye\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmet\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Web7_Project\\Ahmet-Kargin\\LeaveManagement.Web\\LeaveManagement.Web\\LeaveManagement.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ahmet\\Desktop\\LeaveManagement_NET6\\LeaveManagement.Web\\LeaveManagement.Web.csproj",
       "projectName": "LeaveManagement.Web",
-      "projectPath": "G:\\Web7_Project\\Ahmet-Kargin\\LeaveManagement.Web\\LeaveManagement.Web\\LeaveManagement.Web.csproj",
-      "packagesPath": "C:\\Users\\asiye\\.nuget\\packages\\",
-      "outputPath": "G:\\Web7_Project\\Ahmet-Kargin\\LeaveManagement.Web\\LeaveManagement.Web\\obj\\",
+      "projectPath": "C:\\Users\\ahmet\\Desktop\\LeaveManagement_NET6\\LeaveManagement.Web\\LeaveManagement.Web.csproj",
+      "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahmet\\Desktop\\LeaveManagement_NET6\\LeaveManagement.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asiye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10016,7 +10016,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
